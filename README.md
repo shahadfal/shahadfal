@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @shahadfal
-- 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning computer science 
-- 📫 How to reach me : shahad3345@gmail.com
+# 👋 Hi there, I’m Shahad (@shahadfal)
+
+- 🎓 Computer Science graduate.  
+- 👀 Passionate about learning new technologies and building innovative solutions.  
+- 💡 Interested in AI, web development, and exploring creative problem-solving.  
+- 📫 Reach me at: **Almutairi.ShahadF@gmail.com**
 
 <!---
 shahadfal/shahadfal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
